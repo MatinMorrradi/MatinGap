@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoradiGap_Server", "MoradiGap_Server\MoradiGap_Server.csproj", "{49F9ADBE-8784-43FF-9926-548F526E527F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoradiGap_Client", "MoradiGap_Client\MoradiGap_Client.csproj", "{A4E3F7BC-3811-4051-994A-7BED5FBC908B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49F9ADBE-8784-43FF-9926-548F526E527F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49F9ADBE-8784-43FF-9926-548F526E527F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49F9ADBE-8784-43FF-9926-548F526E527F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49F9ADBE-8784-43FF-9926-548F526E527F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4E3F7BC-3811-4051-994A-7BED5FBC908B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4E3F7BC-3811-4051-994A-7BED5FBC908B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4E3F7BC-3811-4051-994A-7BED5FBC908B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4E3F7BC-3811-4051-994A-7BED5FBC908B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C5274FE-597D-4048-8CD3-798F52B82D66}
+	EndGlobalSection
+EndGlobal
